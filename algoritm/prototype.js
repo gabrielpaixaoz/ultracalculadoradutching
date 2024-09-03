@@ -1,5 +1,5 @@
-const game1 = [2.27,3.55,3.05]
-const game2 = [3,3.45,2.35]
+const game1 = [2,3.15,4.80]
+const game2 = [2.47,2.82,3.20]
 let multiplicateFactor = game2[0]
 let multiplicateFactor2 = game2[1]
 let multiplicateFactor3 = game2[2]
