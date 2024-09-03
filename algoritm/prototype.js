@@ -1,5 +1,5 @@
-const game1 = [1.52,3.75,8.25]
-const game2 = [2.47,3.05,3.40]
+const game1 = [2.27,3.55,3.05]
+const game2 = [3,3.45,2.35]
 let multiplicateFactor = game2[0]
 let multiplicateFactor2 = game2[1]
 let multiplicateFactor3 = game2[2]
@@ -20,10 +20,8 @@ function useValue(amount){
 let odds = [...part1,...part2,...part3]
 
 
-let probabiliaddes = odds.map((odd) =>{
-    return 1 / odd
-})
+
 
 console.log(contas)
-console.log(odds, probabiliaddes)
+console.log(odds)
  
